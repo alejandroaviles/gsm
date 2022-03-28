@@ -86,7 +86,7 @@ If you use this code please refer to this repository.
 
 The theory is based mainly on the following papers:
 
-1. Lile Wang, Beth Reid, Martin White, **https://arxiv.org/abs/1306.1804**
+1. Lile Wang, Beth Reid, Martin White, https://arxiv.org/abs/1306.1804
 2. Zvonimir Vlah, Emanuele Castorina, Martin White https://arxiv.org/abs/1609.02908
 3. Alejandro Aviles https://arxiv.org/abs/1805.05304
 4. Georgios Valogiannis, Rachel Bean, Alejandro Aviles, https://arxiv.org/abs/1909.05261

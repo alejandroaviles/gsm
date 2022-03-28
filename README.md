@@ -15,7 +15,6 @@ This code (very quickly) computes correlation functions for generic tracers in r
 
 ## Run
 
-DOWNLOAD:
 
 Git clone
 
@@ -33,7 +32,7 @@ Compile and run:
 /gsm$ ./gsm
 ```
 
-This will the correlation function for the input linear power spectrum /gsm/Input/psLCDM.in (in Mpc/h units), with default parameters
+This will compute the correlation function for the input linear power spectrum /gsm/Input/psLCDM.in (in Mpc/h units), with default parameters.
 
 
 For help:
@@ -49,7 +48,7 @@ In help you can see how to change parameters, in the form [option]=[value], for 
 /MGPT$ ./gsm fnamePS=pkl_z05.dat zout=0.5 om=0.3 h=0.7 b1=0.7 bs=0.1 sFoG=-10 suffix=_run2
 ```
 
-computes the 2pcf for the linear input /gsm/Input/fnamePS=pkl_z05.dat at redshift z=0.5 with background cosmology h=0.7, Omega_m = 0.3. Lagrangian bias parameters linear: b1=0.7 and tidal bias bs=0.1 and EFT parameter sFoG=-10 in (Mpc/h)^2 units (this is the similar to Fingers of God EFT parameter). The output files will have a suffix _run2
+computes the 2pcf for the linear input /gsm/Input/fnamePS=pkl_z05.dat at redshift z=0.5 with background cosmology h=0.7, Omega_m = 0.3. Lagrangian bias parameters linear: b1=0.7 and tidal bias bs=0.1 and EFT parameter sFoG=-10 in (Mpc/h)^2 units (this is the similar to Fingers of God EFT parameter). The output files will have a suffix _run2. (h, z and Omega_m are used only to calculate the logarithmic growth rate f.)  
 
 
 Alternatively you can run the code with a parameters file:
@@ -59,9 +58,7 @@ Alternatively you can run the code with a parameters file:
 ```
 
 
-The main output is gsm/rsd_multipoles.dat with four columns
-
-The input of the code is the LCDM linear power spectrum extrapolated to present time with two columns 
+The main output is gsm/rsd_multipoles.dat file with four columns
 
 | column  | function  |
 | ------------: |:--------------------| 

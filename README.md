@@ -9,7 +9,7 @@ avilescervantes@gmail.com
 #
 
 
-This code computes (very quickly) correlation functions for generic tracers in redshift space using the Gaussian Streaming Model and Convolution Lagrangian Perturbation Theory.
+This code (very quickly) computes correlation functions for generic tracers in redshift space using the Gaussian Streaming Model and Convolution Lagrangian Perturbation Theory.
 
 
 

@@ -67,8 +67,8 @@ The input of the code is the LCDM linear power spectrum extrapolated to present 
 | ------------: |:--------------------| 
 | #1            | r   (in Mpc/h)      |
 | #2            | \xi_0  monopole     |  
-| #2            | \xi_2  quadrupole   |  
-| #2            | \xi_4  hexadecapole |  
+| #3            | \xi_2  quadrupole   |  
+| #4            | \xi_4  hexadecapole |  
 
 
 

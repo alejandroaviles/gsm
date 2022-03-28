@@ -1,0 +1,46 @@
+%-------------------------------------------------------------------
+% Parameter input file for: ./gsm
+%
+% : gsm code rsd.
+%	    ...
+%-------------------------------------------------------------------
+%
+% Use:
+% $ ./gsm parameters.in
+%
+%
+% Power spectrum.  zout is used to compute f 
+fnamePS                            psLCDM.in
+zout                               0
+%parameters. Om and h are used to compute f
+Om                                 0.281
+h                                  0.697
+b1                                 0.0
+b2                                 0.0                                
+bs                                 0.0
+c1eft                              0.0
+c2eft                              0.0
+sigma2eft                         -2.0
+% RSD output
+smin                               1
+smax                               130 
+Ns                                 100   
+% k functions
+kmin                               0.001
+kmax                               20
+Nk                                 200
+nquadSteps                         200
+% q functions
+NqperLogDecade                     100
+Nk_qFunctionsQuad                  1200
+%  For GSM integration:
+gsm_width                          100      %Width of Gaussian in GSM integration",   
+gsm_sizeyT                         160   
+gsm_NGL                            16     
+% other model parameters:
+suffixModel
+modelParamfile
+options
+
+
+

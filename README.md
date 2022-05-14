@@ -1,5 +1,5 @@
 # gsm
-A Gaussian Streaming Code to compute the 2 pt correlation function in redshift space
+A Gaussian Streaming Code to compute tracers 2 pt correlation function in redshift space
 
 
 #
@@ -9,7 +9,7 @@ avilescervantes@gmail.com
 #
 
 
-This code (very quickly) computes correlation functions for generic tracers in redshift space using the Gaussian Streaming Model and Convolution Lagrangian Perturbation Theory.
+This code computes (very quickly) correlation functions for generic tracers in redshift space using the Gaussian Streaming Model and Convolution Lagrangian Perturbation Theory.
 
 
 

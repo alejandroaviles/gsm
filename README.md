@@ -3,13 +3,19 @@ A Gaussian Streaming Code to compute tracers 2 pt correlation function in redshi
 
 
 #
+Alejandro Aviles Cervantes
 
 avilescervantes@gmail.com
 
 #
 
+Other people who contribute to this code:
+Mario A. Rodriguez-Meza 
+Sadi Ramirez-Solano
 
-This code computes (very quickly) correlation functions for generic tracers in redshift space using the Gaussian Streaming Model and Convolution Lagrangian Perturbation Theory.
+#
+
+This code computes (very fast) correlation functions for generic tracers in redshift space using the Gaussian Streaming Model and Convolution Lagrangian Perturbation Theory.
 
 
 

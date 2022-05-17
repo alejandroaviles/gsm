@@ -10,8 +10,11 @@ avilescervantes@gmail.com
 #
 
 Other people who contribute to this code:
-Mario A. Rodriguez-Meza 
+
 Sadi Ramirez-Solano
+
+Mario A. Rodriguez-Meza 
+
 
 #
 

@@ -9,11 +9,15 @@ avilescervantes@gmail.com
 
 #
 
-Other people who contribute to this code:
+Other people who contributed to this code:
 
 Sadi Ramirez-Solano
 
 Mario A. Rodriguez-Meza 
+
+Mariana Vargas-Magaña
+
+Sebastien Fromenteau
 
 
 #

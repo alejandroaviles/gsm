@@ -58,10 +58,10 @@ For help:
 In help you can see how to change parameters, in the form [option]=[value], for example:
 
 ```
-/MGPT$ ./gsm fnamePS=pkl_z05.dat zout=0.5 om=0.3 h=0.7 b1=0.7 bs=0.1 sFoG=-10 suffix=_run2
+/MGPT$ ./gsm fnamePS=pkl_z05.dat zout=0.5 om=0.3 b1=0.7 bs=0.1 sFoG=-10 suffix=_run2
 ```
 
-computes the 2pcf for the linear input /gsm/Input/fnamePS=pkl_z05.dat at redshift z=0.5 with background cosmology h=0.7, Omega_m = 0.3. Lagrangian bias parameters linear: b1=0.7 and tidal bias bs=0.1 and EFT parameter sFoG=-10 in (Mpc/h)^2 units (this is the similar to Fingers of God EFT parameter). The output files will have a suffix _run2. (h, z and Omega_m are used only to calculate the logarithmic growth rate f.)  
+computes the 2pcf for the linear input /gsm/Input/fnamePS=pkl_z05.dat at redshift z=0.5 with matter abundance Omega_m = 0.3. Lagrangian bias parameters linear: b1=0.7 and tidal bias bs=0.1 and EFT parameter sFoG=-10 in (Mpc/h)^2 units (this is the similar to Fingers of God EFT parameter). The output files will have a suffix _run2. (z and Omega_m are used only to calculate the logarithmic growth rate f.)  
 
 
 Alternatively you can run the code with a parameters file:

@@ -3,7 +3,7 @@ A Gaussian Streaming Code to compute tracers 2 pt correlation function in redshi
 
 
 #
-Alejandro Aviles Cervantes
+Alejandro Aviles
 
 avilescervantes@gmail.com
 

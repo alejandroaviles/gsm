@@ -2,6 +2,8 @@
 A Gaussian Streaming Code to compute tracers 2 pt correlation function in redshift space
 
 
+[![arXiv](https://img.shields.io/badge/arXiv-2310.17834-red)](https://arxiv.org/abs/2310.17834)
+
 #
 Alejandro Aviles
 
